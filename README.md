@@ -21,3 +21,9 @@ PARAMETER USED:
 
 
 **The program is created using the Java programming language
+
+program view:
+- 
+<img width="604" alt="2" src="https://user-images.githubusercontent.com/90967773/143388050-6be5f9a3-ba61-45e6-a618-e910580cc2a6.png">
+-
+<img width="599" alt="1" src="https://user-images.githubusercontent.com/90967773/143388186-2b4c22cd-c505-4245-8ca6-4791fa60dd14.png">
