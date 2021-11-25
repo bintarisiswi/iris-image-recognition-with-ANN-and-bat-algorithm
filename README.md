@@ -18,3 +18,6 @@ minimum frequency and maximum frequency: 0 and 100;
 leaning rate: 0.1, 0.5, 0.9;
 maximum iteration: 50000;
 error limit: 0.01.
+
+
+**The program is created using the Java programming language
